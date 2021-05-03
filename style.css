@@ -12,7 +12,7 @@ h1 {
 }
 
 .container {
-  max-width: 550px;
+  max-width: 10px;
   margin: 0 auto;
   outline-color: #2d88cf;
   background-image: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
