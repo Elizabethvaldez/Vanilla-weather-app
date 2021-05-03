@@ -75,3 +75,83 @@ h2 {
   margin-bottom: 20px;
   background-color: #42a5f5;
 }
+
+#current-location:hover {
+  background-color: white;
+  color: #42a5f5;
+  cursor: pointer;
+}
+
+#temp {
+  font-weight: bolder;
+  font-size: 45px;
+  font-style: bold;
+  color: #1b96d3;
+  display: block;
+  margin-bottom: 0px 10px;
+  border: 0px;
+}
+
+#temp-description {
+  font-size: 18px;
+  font-style: italic;
+  color: #686f81;
+  text-transform: capitalize;
+  margin-bottom: 0px 10px;
+  border: 0px;
+}
+
+hr {
+  color: #146ec5;
+}
+
+.big-emoji {
+  font-size: 170px;
+  margin-right: 0px;
+}
+
+h3 {
+  font-size: 15px;
+  color: #686f81;
+  font-weight: bolder;
+}
+
+p {
+  font-size: 20px;
+  color: #686f81;
+  font-weight: bolder;
+}
+
+.temperature-today {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 100px;
+  color: #686f81;
+}
+
+.details {
+  font-size: 15px;
+  margin-top: 110px;
+  color: #686f81;
+}
+
+.emojis {
+  font-size: 40px;
+}
+.time {
+  color: #686f81;
+  font-weight: bold;
+}
+
+.temp {
+  color: #2d88cf;
+}
+
+.day {
+  color: #686f81;
+  font-weight: 400;
+}
+
+.temperature {
+  color: #686f81;
+}
