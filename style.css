@@ -3,8 +3,12 @@ body {
 }
 
 h1 {
-  color: blue;
-  font-size: 50px;
+  color: #1b96d3;
+  font-weight: bold;
+  font-size: 42px;
+  font-family: "Hachi Maru Pop", cursive;
+  padding: 5px;
+  float: center;
 }
 
 .container {
