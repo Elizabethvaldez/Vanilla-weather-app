@@ -6,3 +6,15 @@ h1 {
   color: blue;
   font-size: 50px;
 }
+
+.container {
+  max-width: 550px;
+  margin: 0 auto;
+  outline-color: #2d88cf;
+  background-image: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
+  border-radius: 50px;
+  box-shadow: 0 0 15px white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 30px;
+}
