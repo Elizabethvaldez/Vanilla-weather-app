@@ -55,3 +55,13 @@ h1 {
   color: #2d88cf;
   cursor: pointer;
 }
+
+h2 {
+  color: #42a5f5;
+  font-size: 50px;
+  padding: 5px 0px 0px 5px;
+  margin-bottom: 0px;
+  border-bottom: 0px;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+}
