@@ -65,3 +65,13 @@ h2 {
   letter-spacing: 2px;
   text-transform: capitalize;
 }
+
+#current-location {
+  font-size: 15px;
+  border-radius: 20px;
+  color: white;
+  padding: 3px 9px;
+  border: 2px;
+  margin-bottom: 20px;
+  background-color: #42a5f5;
+}
